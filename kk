@@ -14,4 +14,10 @@ check links
 2. https://github.com/mingway1991/BeautyFace ck5
 3. https://github.com/nonoBruce/ImageColorChange - ck6n
 
+1. https://github.com/Maru-zhang/MARFaceBeauty  ck
+
+2.https://github.com/mingway1991/BeautyFace - ck2
+
+3. https://github.com/JasonSparrow/BeautyImage ck
+
 
