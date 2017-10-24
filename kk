@@ -10,4 +10,8 @@ check links
 2. https://github.com/SushreeSwagatika/SSImageEditor - ck2
 3. https://github.com/XUEXi/XXImagePicker ck3
 
+1. https://github.com/JasonSparrow/BeautyImage - ck4
+2. https://github.com/mingway1991/BeautyFace ck5
+3. https://github.com/nonoBruce/ImageColorChange - ck6n
+
 
