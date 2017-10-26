@@ -20,4 +20,9 @@ check links
 
 3. https://github.com/JasonSparrow/BeautyImage ck
 
+1. https://stackoverflow.com/questions/5145953/how-to-tint-an-image-show-a-colour 
+2. blackOverlay.layer.opacity = 0.3f;  try set like this imageview opacity
+3. https://stackoverflow.com/questions/16257379/color-overlay-on-specific-area-of-uiimage 
+
+
 
