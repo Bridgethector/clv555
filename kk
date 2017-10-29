@@ -24,5 +24,14 @@ check links
 2. blackOverlay.layer.opacity = 0.3f;  try set like this imageview opacity
 3. https://stackoverflow.com/questions/16257379/color-overlay-on-specific-area-of-uiimage 
 
+// color alpha value //
+1. https://stackoverflow.com/questions/22957523/handle-click-on-nontransparent-area-of-imageview-only-ios   -  image alpha
+2. check draw or touch point rect handle that touched point imageview alpha value 
+
+3. https://stackoverflow.com/questions/27923232/how-to-know-that-if-the-only-visible-area-of-a-png-is-touched-in-xcode-swift-o 
+
+4. https://stackoverflow.com/questions/13291919/detect-touches-only-on-non-transparent-pixels-of-uiimageview-efficiently
+5.
+
 
 
