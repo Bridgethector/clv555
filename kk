@@ -34,4 +34,12 @@ check links
 5.
 
 
+1. able to get dummy image and if i  using alpha blending getting punched image 
+
+so when applying color through scrollview color should be visible if again touch the 
+
+imageview that punched should be update  everytime 
+2. if we switch to erase mode merge that punched image with colored image so resultant image will be placed in erase mode top image and botttom image is normal image
+3. if u touch the image or erase that what we got dummy image in that color we have to erase  that color part and upadate every time how many times we erasing the image that part only we have to place in draw mode if we switch 
+4. this process should maintain upto saving option selected.
 
