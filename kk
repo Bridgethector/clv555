@@ -43,3 +43,10 @@ imageview that punched should be update  everytime
 3. if u touch the image or erase that what we got dummy image in that color we have to erase  that color part and upadate every time how many times we erasing the image that part only we have to place in draw mode if we switch 
 4. this process should maintain upto saving option selected.
 
+// new //
+1. in drawmode color is applying, if we change color in scrollview so in erase mode draw the dummy image in erase mode also with clear color and alpha blend with cgcontextimage 
+{ previously we did alpha blend effective image and cgcontextimage }
+ 2. then resultant image set imagview image on top layer after switching to draw mode, so if we switch to erase mode again merge below image and resultant top image what we got earlier
+ 3. for erase mode color change take erasemodetransparency image for change color so we have to place blurimage as below image if we select scrollview color , if we start again erasing means we have to set below image as original image
+4. previous color problem is, if we come back to the erase mode color is changing but if we select other color and touch the imageview means previous resultant image color is showing everytime [ so upto saving donot merge the images just place the images on top if user click done or close button only merging should take
+
